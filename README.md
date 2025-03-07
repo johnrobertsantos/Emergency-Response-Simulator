@@ -383,6 +383,11 @@ Formula used for Column M:
 =IF(L2<>"-",VLOOKUP(H2,Table6,2,FALSE),"-")
 ```
 
+Upon finishing all of those, this is what the simulation table looks like. (Unnecessary columns are hidden to reduce clutter)
+
+![image](https://github.com/user-attachments/assets/c5ee81aa-f86f-496a-9c7d-7c9708c969c5)  
+*The Simulation Table*
+
 ## Simulation Summary Table
 This is the table where we get the final results of our simulation and get valuable information and insights. Below is a picture of that table:
 
@@ -403,4 +408,4 @@ Making this table is easy. I just used functions like `CONCAT`,`AVERAGE`,`COUNTI
 ```
 
 # Ending Remarks
-It's been a while since I last did a project here. I hope some people get to see this as this is one of the works I am most proud of as of this day despite still needing to polish my skills in writing formulas. I would also like to thank my research mate as she was actually the one who made the starting concept of the simulator. I just happened to continue this work of hers. Hope you all realized a thing or two in the potential of Excel to create this type of project. Wishing you all had fun reading this as I had fun making it. Thanks!
+It's been a while since I last did a project here. I hope some people get to see this as this is one of the works I am most proud of as of this day despite still needing to polish my skills in writing formulas. You could download the excel file should you need it. I published it as well in this repository. I would also like to thank my research mate as she was actually the one who made the starting concept of the simulator. I just happened to continue this work of hers. Hope you all realized a thing or two in the potential of Excel to create this type of project. Wishing you all had fun reading this as I had fun making it. Thanks!
